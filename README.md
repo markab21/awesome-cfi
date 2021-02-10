@@ -31,6 +31,8 @@ This is source material I found useful in preparing for the CFI, specifically fo
 
 ### Fundamentals of Instruction
 
+Note: The examiner shall select Task E and one other Task
+
 #### External Resources
 
 * [FOI Quick Reference](https://mycfibook.com/book_pages/foi-quick-reference/) - MyCFIBook.com
@@ -41,6 +43,8 @@ This is source material I found useful in preparing for the CFI, specifically fo
 #### Video Content by Task
 
 ##### Fundamentals of Instruction
+
+###### General Information on Area of Operation
 
 * [The Fundamentals of Instruction (FOI's) and How to Teach Them](https://www.youtube.com/watch?v=XO8lRHET8wU)
 
@@ -85,7 +89,9 @@ This is source material I found useful in preparing for the CFI, specifically fo
 * [Risk Management](https://www.youtube.com/watch?v=jMYLfTmMxLg) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
 * [CFI FOI Task G](https://www.youtube.com/watch?v=nIvivsaPj3s) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
 
-##### Technical Information
+##### Technical Subject Areas
+
+*Note: The examiner must select Tasks B, M, and at least one other Task.*
 
 ##### Flying Courses
 
