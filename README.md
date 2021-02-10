@@ -44,16 +44,44 @@ This is source material I found useful in preparing for the CFI, specifically fo
 
 * [The Fundamentals of Instruction (FOI's) and How to Teach Them](https://www.youtube.com/watch?v=XO8lRHET8wU)
 
-###### Task A
+###### Task A - Human Behavior and Effective Communication
+* [Human Behavior & Effective Communication](https://www.youtube.com/watch?v=L2MIniFJG5s) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
 * [CFI FOI Task A](https://www.youtube.com/watch?v=Q3SEaJv7zvs) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
-* [CFI FOI Task A](https://www.youtube.com/watch?v=Q3SEaJv7zvs) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
-
-
-###### Task B
+* [CFI FOI Task A](https://www.youtube.com/watch?v=kdJNzS30HKo) - Youtube / [Joseph Swope](https://www.youtube.com/channel/UCHTm2mjL8hEWlTtlkAN7ugA/featured)
+* [FOI Task B learning process CFI lesson plan Part 1](https://www.youtube.com/watch?v=lQNu7ODMHfs) - Youtube / [Priya Thomas](https://www.youtube.com/channel/UCb-YhEB9x5ZruZH9iBgx2fg)
+  
+###### Task B - The Learning Process
+* [The Learning Process](https://www.youtube.com/watch?v=f-CI1Ufk0NM) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
+* [CFI FOI Task B](https://www.youtube.com/watch?v=nIvivsaPj3s) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
 * [FOI Task B learning process CFI lesson plan Part 1](https://www.youtube.com/watch?v=chgVG5yyrAI) - Youtube / [Priya Thomas](https://www.youtube.com/channel/UCb-YhEB9x5ZruZH9iBgx2fg)
 * [FOI Task B learning process CFI lesson plan Part 1](https://www.youtube.com/watch?v=lQNu7ODMHfs) - Youtube / [Priya Thomas](https://www.youtube.com/channel/UCb-YhEB9x5ZruZH9iBgx2fg)
 
-###### Task C
+###### Task C - The Teaching Process
+
+* [The Teaching Process](https://www.youtube.com/watch?v=80qL9ipdqUs) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
+* [CFI FOI Task C](https://www.youtube.com/watch?v=qnfiGj2fsAk) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
+* [The Teaching Process](https://www.youtube.com/watch?v=8pERBj5KXZY) - Youtube / [Priya Thomas](https://www.youtube.com/channel/UCb-YhEB9x5ZruZH9iBgx2fg)
+
+###### Task D - Assessment and Critique
+
+* [The Teaching Process](https://www.youtube.com/watch?v=80qL9ipdqUs) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
+* [CFI FOI Task D](https://www.youtube.com/watch?v=nIvivsaPj3s) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
+* [ASSESSMENT AND CRITIQUE](https://www.youtube.com/watch?v=RWA5bgFGmI8) - Youtube / [Priya Thomas](https://www.youtube.com/channel/UCb-YhEB9x5ZruZH9iBgx2fg)
+
+###### Task E - Instructor Responsibilities and Professionalism
+
+* [Instructor Responsibilities and Professionalism](https://www.youtube.com/watch?v=gQpFN2YopHM) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
+* [CFI FOI Task E](https://www.youtube.com/watch?v=nIvivsaPj3s) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
+
+###### Task F - Techniques of Flight Instruction
+
+Priah 1 https://www.youtube.com/watch?v=AzFunzrRKI0
+
+* [CFI FOI Task F](https://www.youtube.com/watch?v=nIvivsaPj3s) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
+
+###### Task G - Risk Management
+
+* [CFI FOI Task G](https://www.youtube.com/watch?v=nIvivsaPj3s) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
 
 ##### Technical Information
 
