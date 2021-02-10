@@ -72,15 +72,17 @@ This is source material I found useful in preparing for the CFI, specifically fo
 
 * [Instructor Responsibilities and Professionalism](https://www.youtube.com/watch?v=gQpFN2YopHM) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
 * [CFI FOI Task E](https://www.youtube.com/watch?v=nIvivsaPj3s) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
+* [ASSESSMENT AND CRITIQUE](https://www.youtube.com/watch?v=dD96fre8X5M) - Youtube / [Priya Thomas](https://www.youtube.com/channel/UCb-YhEB9x5ZruZH9iBgx2fg)
 
 ###### Task F - Techniques of Flight Instruction
 
-Priah 1 https://www.youtube.com/watch?v=AzFunzrRKI0
-
+* [Techniques of Flight Instruction](https://www.youtube.com/watch?v=Nl7NLZhJC-E) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
 * [CFI FOI Task F](https://www.youtube.com/watch?v=nIvivsaPj3s) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
+* [Techniques of Flight Instruction](https://www.youtube.com/watch?v=AzFunzrRKI0) - Youtube / [Priya Thomas](https://www.youtube.com/channel/UCb-YhEB9x5ZruZH9iBgx2fg)
 
 ###### Task G - Risk Management
 
+* [Risk Management](https://www.youtube.com/watch?v=jMYLfTmMxLg) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
 * [CFI FOI Task G](https://www.youtube.com/watch?v=nIvivsaPj3s) - Youtube / [Christopher Johnston](https://www.youtube.com/channel/UCgckA-q5xXtNYhyf92pcG8Q)
 
 ##### Technical Information
