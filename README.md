@@ -21,7 +21,7 @@ This is source material I found useful in preparing for the CFI, specifically fo
 
 ### CFI Binder / Resources
 
-[How to build your binder](BINDER_README.md)
+[How to build your binder](BINDER.md)
 
 ### Oral Exam Preparation
 
