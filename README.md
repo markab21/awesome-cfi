@@ -22,7 +22,7 @@ This is source material I found useful in preparing for the CFI, specifically fo
 ### CFI Binder / Resources
 
 * [How to build your binder](BINDER.md)
-* [How to teach the Fundamentals of Instruction](https://www.youtube.com/watch?v=XO8lRHET8wU) - Todd explains how to use the Aviation Instructors Handbook to create compelling lessons. Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw) 
+* [How to teach the Fundamentals of Instruction](https://www.youtube.com/watch?v=XO8lRHET8wU) - How to use the Aviation Instructors Handbook to create compelling lessons. (Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw))
 
 
 ### Oral Exam Preparation
