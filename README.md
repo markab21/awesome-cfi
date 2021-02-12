@@ -134,6 +134,7 @@ Not necessarily intended for purchase, but they have a few examples of well thou
 
 * [MyCFIBook.com - Sample Lesson Plan (Steep Turns)](https://mycfibook.com/lesson-plans/steep-turns/)
 * [Sample CFI Bootcamp Lesson Plan](https://919a5f15-c4f3-4e59-aa32-f1c6aff2c8b2.filesusr.com/ugd/1b05d8_f90ff086c25e41d28e93c34e96a27e80.pdf)
+* [The Backseat Pilot](https://thebackseatpilot.com/)
 
 ---
 
