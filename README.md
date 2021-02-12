@@ -22,7 +22,6 @@ This is source material I found useful in preparing for the CFI, specifically fo
 ### CFI Binder / Resources
 
 * [How to build your binder](BINDER.md)
-* [How to teach the Fundamentals of Instruction](https://www.youtube.com/watch?v=XO8lRHET8wU) - How to use the Aviation Instructors Handbook to create compelling lessons. (Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw))
 
 
 ### Oral Exam Preparation
@@ -48,7 +47,7 @@ Note: The examiner shall select Task E and one other Task
 
 ###### General Information on Area of Operation
 
-* [The Fundamentals of Instruction (FOI's) and How to Teach Them](https://www.youtube.com/watch?v=XO8lRHET8wU) -  - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
+* [How to teach the Fundamentals of Instruction](https://www.youtube.com/watch?v=XO8lRHET8wU) - How to use the Aviation Instructors Handbook to create compelling lessons. (Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw))
 
 ###### Task A - Human Behavior and Effective Communication
 * [Human Behavior & Effective Communication](https://www.youtube.com/watch?v=L2MIniFJG5s) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
