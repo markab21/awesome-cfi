@@ -171,6 +171,7 @@ These were gathered from the [AOPA - Flight instructor resource](https://www.aop
 
 #### 👨🏽‍✈️👩🏻‍✈️ New Pilot Tips / Motivation
 
+* [PAVE - Your Personal Minimum Checklist (Worksheet)](https://ilearn.kingschools.com/FIRC/content/course/airplane/library/PAVE_checklist.pdf)
 * [10 Things Every Student Needs](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Flight-Training-Resources/10-Things-Every-Student-Needs.pdf)
 * [25 Questions — Answers That Every Pilot Should Know](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Flight-Training-Resources/25-Questions--Answers-That-Every-Pilot-Should-Know.pdf)
 * [Cost Effective Training–Make Every Minute Count](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Flight-Training-Resources/Cost-Effective-Training_Make-Every-Minute-Count.pdf)
