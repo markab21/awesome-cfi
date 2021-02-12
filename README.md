@@ -48,7 +48,7 @@ Note: The examiner shall select Task E and one other Task
 
 ###### General Information on Area of Operation
 
-* [The Fundamentals of Instruction (FOI's) and How to Teach Them](https://www.youtube.com/watch?v=XO8lRHET8wU)
+* [The Fundamentals of Instruction (FOI's) and How to Teach Them](https://www.youtube.com/watch?v=XO8lRHET8wU) -  - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
 
 ###### Task A - Human Behavior and Effective Communication
 * [Human Behavior & Effective Communication](https://www.youtube.com/watch?v=L2MIniFJG5s) - Youtube / [Todd Shellnutt](https://www.youtube.com/channel/UCmZ76TJjqQ8yCfK85lG56Tw)
