@@ -14,6 +14,7 @@ This is source material I found useful in preparing for the CFI, specifically fo
 * [Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/)
 * [FAA Regulations](https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title14/14tab_02.tpl)
 * [AIM](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/index.html)
+* [FAA AC Search](https://www.faa.gov/regulations_policies/advisory_circulars/)
 
 #### External
 
