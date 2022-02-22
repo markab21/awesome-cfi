@@ -181,6 +181,7 @@ These were gathered from the [AOPA - Flight instructor resource](https://www.aop
 * [10 Ways to Regain Piloting Confidence](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Flight-Training-Resources/10-Ways-to-Regain-Piloting-Confidence.pdf)
 * [The Plateau Problem–What to Do](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Flight-Training-Resources/10-Ways-to-Regain-Piloting-Confidence.pdf)
 * [Why Do Some Students Quit–Make Sure You’re Not One](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Flight-Training-Resources/Why-Do-Some-Students-Quit--Make-Sure-Youre-Not-One.pdf)
+* [Women in Aviation - Statistics](https://pilotinstitute.com/women-aviation-statistics/)
 
 #### 📻 Communication / Radios
 
