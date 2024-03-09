@@ -8,8 +8,10 @@ This is source material I found useful in preparing for the CFI, specifically fo
 
 #### FAA
 
+
+
 * [Aviation Instructor's Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/)
-* [CFI PTS (Airplane)](https://www.faa.gov/training_testing/testing/test_standards/media/FAA-S-8081-6D.pdf)
+* [CFI PTS (Airplane)](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/test_standards/FAA-S-8081-6D.pdf)
 * [Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook/)
 * [Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/)
 * [FAA Regulations](https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title14/14tab_02.tpl)
